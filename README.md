@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Bárbara Borges.
 
-I am a Bioinformatics MsC candidate at BioME (UFRN - Natal, Rio Grande do Norte, Brazil). 
+I am a Bioinformatics MSc candidate at BioME (UFRN - Natal, Rio Grande do Norte, Brazil). 
 I am a member of [@integrativebioinformatics](https://github.com/integrativebioinformatics) lab at Unidad de Genómica Avanzada (UChile - Santiago) and ARIA (UFPB - João Pessoa, Paraíba, Brazil).
 
 Transriptomics and Genomics are the umbrella areas of my current projects.
